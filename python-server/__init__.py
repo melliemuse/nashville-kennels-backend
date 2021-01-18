@@ -1,0 +1,1 @@
+from animals.request import get_all_animals
